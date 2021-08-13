@@ -2,5 +2,5 @@
 name: Kaleidoscope
 version: 0.0.1
 main: NexusMC\Kaleidoscope\Main
-api: 3.22.1
+api: 3.0.0
 ...
